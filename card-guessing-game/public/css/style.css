@@ -16,7 +16,7 @@ body {
   .card {
     width: 100px;
     height: 100px;
-    background-color: #333;
+    background-color: #fd0ce9;
     color: white;
     display: flex;
     align-items: center;
@@ -27,8 +27,8 @@ body {
   }
   
   .flipped {
-    background-color: #f0f0f0;
-    color: black;
+    background-color: navy ;
+    color: #f0f0f0;
   }
   
   .hidden {
@@ -41,8 +41,8 @@ body {
     font-size: 16px;
     cursor: pointer;
     border: none;
-    background-color: #007bff;
-    color: white;
+    background-color: #ea00ff;
+    color: rgb(20, 1, 1);
     border-radius: 5px;
   }
   
